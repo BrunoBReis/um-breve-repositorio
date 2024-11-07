@@ -1,0 +1,19 @@
+site_name: CRM Pro Injeção Documentação
+
+extra_css: 
+  - style/extra.css
+
+theme:
+  name: material
+
+nav:
+  - Pagina Inicial:
+    - Home: index.md
+    - Sobre: about.md
+  - Visão do Produto:
+    - Cenário Atual: cenario-atual.md
+    - Solução Proposta: sample.md
+    - Estratégias de Engenharia de Software: sample.md
+    - Cronograma de Entregas: sample.md
+    - Interação Entre Equipe e Cliente: sample.md
+    - LIções Aprendidas: sample.md
